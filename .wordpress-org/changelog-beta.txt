@@ -1,0 +1,42 @@
+== Changelog ==
+
+DISCLAIMER - This changelog is for the purpose only of this report and is not
+             related to features contestable or imputable to anything: never!
+
+WP Missed Schedule - Beta
+
+= 2015.1231.3.0 =
+* Beta Release [STABLE] Real Cron Job Support!
+ * Code in Becoming: not for production Sites or Blogs!
+ * Branche 2015 Build 2015-08-28
+ * Release 2015 Version 1231 Revision 3 Update 0
+
+= 2015.1231.0.0 =
+* Beta Release [STABLE] Real Cron Job Support!
+ * Code in Becoming: not for production Sites or Blogs!
+ * Branche 2015 Build 2015-08-28
+ * Release 2015 Version 1231 Revision 0 Update 0
+
+= 2015.0228.3 =
+* Beta Release [STABLE] Real Cron Job Support!
+ * Code in Becoming: not for production Sites or Blogs!
+ * Branche 2015 Build 2015-02-28
+ * Release 2015 Version 0228 Revision 3 Update 0
+
+= 2015.0228.2 =
+* Beta Release [STABLE] Real Cron Job Support!
+ * Code in Becoming: not for production Sites or Blogs!
+ * Branche 2015 Build 2015-02-28
+ * Release 2015 Version 0228 Revision 2 Update 0
+
+= 2015.0228.1 =
+* Beta Release [STABLE] Real Cron Job Support!
+ * Code in Becoming: not for production Sites or Blogs!
+ * Branche 2015 Build 2015-02-28
+ * Release 2015 Version 0228 Revision 1 Update 0
+
+= 2015.0228.0 =
+* Beta Release [STABLE] Real Cron Job Support!
+ * Code in Becoming: not for production Sites or Blogs!
+ * Branche 2015 Build 2015-02-28
+ * Release 2015 Version 0228 Revision 0 Update 0

@@ -1,0 +1,12 @@
+== Changelog ==
+
+DISCLAIMER - This changelog is for the purpose only of this report and is not
+             related to features contestable or imputable to anything: never!
+
+WP Missed Schedule - Development
+
+= 2016.0.0.0 =
+* Dev Release [STABLE] Virtual and Real Cron Job Support!
+ * Code in Becoming: not for production Sites or Blogs!
+ * Branche 2016 Build 2016-00-00
+ * Release 2016 Version 0 Revision 0 Update 0

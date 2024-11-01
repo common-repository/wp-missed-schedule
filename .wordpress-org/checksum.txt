@@ -1,0 +1,38 @@
+WP Missed Schedule -- Fix Future Posts Failed -- Assets Langs -- SHA1 Checksum
+
+----------------------------------- Assets -----------------------------------
+
+banner-772x250.jpg                    088C2FB5C662DA31B1760EE5CF62569A410D8972
+banner-1544x500.jpg                   EE35D8E175044787D3890D40AD4FB0B8E0E74A18
+
+changelog.txt                         175AAAFB920873EA2B9297A48FD66960C075D21B
+changelog-beta.txt                    E81EB322CC588DCE3F9E11D7945542DFB2760D6C
+changelog-dev.txt                     BD2D7FF7A73455C757E8F408CDA65B6412E8C0A8
+changelog-old.txt                     175AAAFB920873EA2B9297A48FD66960C075D21B
+
+icon.svg                              ----- NOT AVAILABLE ON THIS MOMENT -----
+
+icon-128x128.png                      A9CB97F87C0775747A126CB0643EC2F782DBED65
+icon-256x256.png                      AD53C7955888C49D34ED9165D9FF4EBA7ABCEF7D
+
+nologo.png                            ----- NOT AVAILABLE ON THIS MOMENT -----
+
+screenshot-1.png                      CDF181BC1DC92C2AC2847ED09394B95ED010453D
+screenshot-2.png                      AA4EE010602EC4E10654605E54089853D870C9B0
+screenshot-3.png                      A985F357F91EF9A1595C0F3EA427CCB129F21AD3
+screenshot-4.png                      48335AB64AF6E74422DE7EE59EEEA3A58B8D8F8B
+screenshot-5.png                      F8902E0BD4E358B1507EC05A09F58DE7C6274D5A
+screenshot-6.png                      EB79B990C71E0BF0D4C3320F4CF1E88C39510DA4
+screenshot-7.png                      90EF17CD63920D0B65E10725BD36696E2E6FD5BD
+screenshot-8.png                      6EB61A1B6557A1D4BA4FBC0FC5686B8570AE7331
+screenshot-9.png                      2D94D1AA70E7601F6AE13CA5F2B3751B6EC04BD2
+screenshot-10.png                     4736CF791A61F134309D2A94DF403D112B6399EB
+screenshot-11.png                     389A4F74BAB2B1E18F5ED1413B45FBA4BAB4A105
+screenshot-12.png                     78E4F6C157099F17B769233F8311806AA55C6279
+
+/languages/
+
+how-to-translate-this-plugin.txt      8F5B1CFE61AA210BD22DDC500E94EBBC0BC81476
+
+wp-missed-schedule.pot                4C1959123C7359B0800A9AB4C834D451D1E43FC2
+wp-missed-schedule-beta.pot           132CB4A96106A68AB1C433BED19EB95866095D33

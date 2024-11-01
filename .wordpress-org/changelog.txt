@@ -1,0 +1,186 @@
+== Changelog ==
+
+DISCLAIMER - This changelog is for the purpose only of this report and is not
+             related to features contestable or imputable to anything: never!
+
+WP Missed Schedule - Previos 2013 to 2007 old changes.
+
+= 2013.1212.9999 =
+* Refreshed Update [STABLE] Preemptive Support for WordPress 3.8-alpha
+ * Please update as soon as possible!
+ * Preemptive Support for WordPress 3.8-alpha
+ * UPDATED Stability and Performances.
+ * BUMP Version 2013 Build 1212 Revision 9999
+= 2013.1024.8888 =
+* Recommended Update [STABLE] Fixed infrequent freeze when deactivate or delete it!
+ * Please update as soon as possible!
+ * Preemptive Support for WordPress 3.7-alpha
+ * NEW Special Gold All in One Update Versions with vary Frequency of Check.
+ * BUXFIX Fixed infrequent freeze when deactivate or delete it!
+ * BUMP Version 2013 Build 1024 Revision 8888
+= 2013.0730.7777 =
+* Release Candidate 2013 [STABLE] WP Missed Scheduled Release Candidate 2013
+ * Please update as soon as possible!
+ * NEW Ticket #4218662 [HyperDB Query Compatibility](https://wordpress.org/support/topic/resolving-table_name-from-query-broken-in-select-query)
+ * NEW Introducing Concept of PRO Version for Future Development and Survivor.
+ * UPDATED Realtime Checking: 10 Future Posts for 5 Minute.
+ * BUMP Version 2013 Build 0730 Revision 7777
+= 2013.0726.6666 =
+* Bugfix Update [OMG] Resolved Issue Discuss [Here](https://wordpress.org/support/topic/bug-published-future-posts-after-update)
+ * Please update as soon as possible!
+ * NEW Fast Queries and CPU Load (5 minutes) Optimization by Jack Hayhurst.
+ * UPDATED Security Rules.
+ * REMOVED /mu-plugins/ Outdated Install Support! Refer to [WPMS db Cleaner](https://downloads.wordpress.org/plugin/wp-missed-schedule.wpms-mu-plugins-clnr.zip)
+ * REVERTED Default Failed Post Checking from 1 minute to 5 minutes.
+ * BUMP Version 2013 Build 0726 Revision 6666
+= 2013.0725.5555 =
+* Recommended Update [BUGFIX-PERFORMANCES-SECURITY] Future Start Now!
+ * Please update as soon as possible!
+ * NEW Fast Queries and CPU Load (5 minutes) Optimization by Jack Hayhurst.
+ * UPDATED Security Rules.
+ * REMOVED /mu-plugins/ Outdated Install Support! Refer to [WPMS db Cleaner](https://downloads.wordpress.org/plugin/wp-missed-schedule.wpms-mu-plugins-clnr.zip)
+ * REVERTED Default Failed Post Checking from 1 minute to 5 minutes.
+ * BUMP Version 2013 Build 0725 Revision 5555
+= 2013.0531.4444 =
+* Special Gold Update [STABLE] All in One Versions with vary Frequency of Check
+ * Please update as soon as possible!
+ * NEW Transparency of JetPack and other Publishing Plugins.
+ * BUGFIX Fixed Ticket #3712701 [TimeZone Issues](https://wordpress.org/support/topic/publishing-ahead-of-schedule-timezone-issues/)
+ * ENHANCEMENT Compatibility of Third Party Caching Plugins.
+ * BUGFIX Fixed Ticket #4163854 [W3 Total Cache Conflict](https://wordpress.org/support/topic/any-conflicts-with-w3-cache/)
+ * ENHANCEMENT Default WordPress Items Feed Syndication Support.
+ * UPDATE Checking 10 Posts for 1 Minute (previous 5 items) [LIMIT 10]
+ * REMOVED [WPMS_DELAY ,1]
+ * SECURITY Introducing (a New Idea of sLa) Check Key Tag Authenticity.
+ * UPDATE Key Tag Checking Mechanism.
+ * BUMP Version 2013 Build 0531 Revision 4444
+= 2013.0131.3333 =
+* Recommended Update [BUGFIX] Fixed Ticket #3712701 [TimeZone Issues](https://wordpress.org/support/topic/publishing-ahead-of-schedule-timezone-issues/)
+ * Please update as soon as possible!
+ * Preemptive Support for WordPress 3.6-alpha
+ * NEW Transparency of JetPack and other Publishing Plugins.
+ * BUGFIX Fixed Ticket #3712701 [TimeZone Issues](https://wordpress.org/support/topic/publishing-ahead-of-schedule-timezone-issues/)
+ * ENHANCEMENT Compatibility of Third Party Caching Plugins.
+ * BUGFIX Fixed Ticket #4163854 [W3 Total Cache Conflict](https://wordpress.org/support/topic/any-conflicts-with-w3-cache/)
+ * ENHANCEMENT Default WordPress Items Feed Syndication Support.
+ * UPDATE Checking 10 Posts for 1 Minute (previous 5 items) [LIMIT 10]
+ * UPDATE checking interval every 1 minute (previous 5 minutes) [WPMS_DELAY ,1]
+ * SECURITY Introducing (a New Idea of sLa) Check Key Tag Authenticity.
+ * UPDATE Key Tag Checking Mechanism.
+ * BUMP Version 2013 Build 0131 Revision 3333
+= 2013.0130.2222 =
+* Recommended Update [BUGFIX] Fixed (unusual/infrequent) Ticket [#3786523](https://wordpress.org/support/topic/activate-the-plugin-then-show-strange-messages/)
+ * Please update as soon as possible!
+ * BUGFIX Fixed Ticket [#3786523](https://wordpress.org/support/topic/activate-the-plugin-then-show-strange-messages/) in Some Circumstances Hosting Configurations.
+ * ENHANCEMENT Checking Interval Modified from 5 Minutes to 1 Minute.
+ * UPDATE checking interval every 1 minute (previous 5 minutes) [WPMS_DELAY ,1]
+ * SECURITY Introducing (a New Idea of sLa) Check Key Tag Authenticity.
+ * BUMP Version 2013 Build 0130 Revision 2222
+= 2013.0106.1111 =
+* Silent Update [STABLE] Try WP 3.5 Scheduled Posts Regression Ticket <a href="https://core.trac.wordpress.org/Ticket/22944" title="WordPress 3.5 Scheduled Posts Regression Ticket #22944">#22944</a>
+ * Please update as soon as possible!
+ * Full Compatible with WordPress 2.6+ to 3.5+
+ * BUMP Version 2013 Build 0106 Revision 1111
+= 2012.0613.2012 =
+* Major Update [CERTIFIED] WP 2.6+ to 3.4+ Single and MultiSite Environment
+ * Please update as soon as possible!
+ * Full Compatible with WordPress 2.6+ to 3.4+
+ * UPDATE Check every 15 minutes [WPMS_DELAY ,15]
+ * UPDATE Fix 10 items per session [LIMIT 10]
+ * BUMP Version 2012 Build 0613 Revision 2012
+= 2011.0920.2011 =
+* Major Update [CERTIFIED] WP 2.6+ to 3.3+ Single and MultiSite Environment
+ * Please update as soon as possible!
+ * Full Compatible with WordPress 2.6+ to 3.3+
+ * UPDATE Check every 15 minutes [WPMS_DELAY ,15]
+ * UPDATE Fix 10 items per session [LIMIT 10]
+ * BUMP Version 2011 Build 0920 Revision 2011
+= 2011.0424.3333 =
+* Silent Update [MAINTENANCE] WP 3.1 and 3.1.1 Upgrade. Fixed slowness.
+ * PLEASE Update as soon as possible!
+ * UPGRADE Make it full compatible with WordPress 3.1 and 3.1.1 a.k.a 3.1+
+ * NEW Replaced wp_future_post function with wpms_future_post
+ * NEW Very realtime missed scheduled failed future posts recovery and fixing
+ * EXPLAINED WP Missed Schedule fix one failed post in a minute: cool!
+ * UPDATE Preemptive support for WordPress 3.1.2-alpha and 3.2-bleeding
+ * UPDATE Now fix 5 items per session (previous 10) [LIMIT 0,5]
+ * FIXED Low resource hosting slowness when execute session task
+ * IMPROVED Code cleanup and compress again for new faster loading
+ * IMPROVED Functions redefinied for best timeline
+ * BUMP Version 2011 Build 0424 Revision 3333
+= 2011.0214.2222 =
+* Silent Update [MAINTENANCE] WP 3.0.5 and 3.1-RC4-17441 Upgrade.
+ * Please update as soon as possible!
+ * UPGRADE Make it full compatible with WordPress 3.0.5
+ * FIXED Some Hosting Crash with Full Strict Security Rules (.htaccess)
+ * UPDATE check every 5 minutes (previous 15 minutes) [WPMS_DELAY ,5]
+ * UPDATE Preemptive support for WordPress 3.1-RC4-17441
+ * Bump Version 2011 Build 0214 Revision 2222
+= 2011.0107.1111 =
+* Major Update [CERTIFIED] WP 3.1-RC2-17229 Compatibility Upgrade.
+ * Please update as soon as possible!
+ * First 2011 Major Release (Zero Bug Certified) :)
+ * UPDATE Preemptive support for WordPress 3.1-RC2-17229
+ * Bump Version 2011 Build 0107 Revision 1111
+= 2010.1231.2010 =
+* Major Update [STABLE] Full WP 3.0.4 and 3.1-RC1-17163 Compatibility Upgrade.
+ * Please update as soon as possible!
+ * Fix Missed Scheduled Future Posts Cron Job.
+ * ZERO-BUGS Full Last 2010 Major Release.
+ * UPDATE Preemptive support for WordPress 3.1-RC1-17163
+ * FIXED WordPress [wp_schedule_single_event](https://codex.wordpress.org/Function_Reference/wp_schedule_single_event) Function Behavior.
+ * FIXED WordPress [wp_publish_post](https://codex.wordpress.org/Function_Reference/wp_publish_post) Function Behavior.
+ * Make it full compatible with WordPress 3.0.4
+ * Fixed Execution Time.
+ * Reduce Code Bloat.
+ * Code Cleanup for faster loading.
+ * Work with single WordPress 2.6.x to 3.1.x and old MU.
+ * Bump Version 2010 Build 1231 Revision 2010
+= 2010.1226.0246 =
+* Silent Update [MAINTENANCE] WP 3.1-RC1 Compatibility Upgrade.
+ * Please update as soon as possible!
+ * UPDATE Preemptive support for WordPress 3.1-RC1
+ * Bump Version 2010 Build 1226 Revision 0246
+= 2010.1220.0048 =
+* Silent Update [MAINTENANCE] WP 3.1-beta2-16997 Compatibility Upgrade.
+ * Please update as soon as possible!
+ * UPDATE Preemptive support for WordPress 3.1-beta2-16997
+ * Bump Version 2010 Build 1220 Revision 0048
+= 2010.1211.0038 =
+* Silent Update [MAINTENANCE] WP 3.0.3 and 3.1-beta1-16732 Compatibility Upgrade.
+ * Please update as soon as possible!
+ * UPDATE Make it full compatible with WP 3.0.3
+ * UPDATE Preemptive support for WordPress 3.1-beta1-16732
+ * Bump Version 2010 Build 1211 Revision 0038
+= 2010.1201.1918 =
+* Silent Update [MAINTENANCE] WP 3.0.2 and 3.1-beta1 Compatibility Upgrade.
+ * Please update as soon as possible!
+ * NEW Make it full compatible with WP 3.0.2
+ * NEW Preemptive support for WordPress 3.1-beta1
+ * NEW More Accurate link on Plugin Control Panel Description
+ * Bump Version 2010 Build 1201 Revision 1918
+= 2010.0821.1539 =
+* Silent Update [BUGFIX] Reduced Bloat and Code Cleanup.
+ * Please update as soon as possible!
+ * Bump Version 2010 Build 0821 Revision 1539
+= 2010.0816.2254 =
+* First Public Stable Release (full WP 3.0.1 compatible)
+ * Fix Missed Scheduled Future Posts Cron Job
+ * Make it full compatible with WP 3.0.1
+ * Preemptive support for WordPress 3.1-alpha
+ * Code Cleanup for faster loading.
+ * Bump Version 2010 Build 0816 Revision 2254
+= 2009.1218.2009 =
+* Make it full compatible with WP 2.8 to 2.9 and WPMU
+ * Preemptive support for WordPress 3.0-alpha
+ * Fixed Execution Time
+ * Bump Version 2009 Build 1218 Revision 2009
+= 2008.1210.2008 =
+* Full compatible with WP 2.5+ to 2.7+ and WPMU
+ * Preemptive support for WordPress 2.8-alpha
+ * Reduce Code Bloat
+ * Bump Version 2008 Build 1210 Revision 2008
+= 2007.0807.2007 =
+* Full compatible with WordPress 2.5+ to 2.6+ and WPMU
+ * 1ST Plugin Build
+ * Bump Version 2007 Build 0807 Revision 2007
